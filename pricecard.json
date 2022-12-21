@@ -1,0 +1,220 @@
+{
+    "plans":[
+        {
+            "heading":"Elite",
+            "price":"99",
+            "price2":"83",
+            "views":"500,000",
+            "list1":"Unlimited number of popups, subscribers, and A/B tests",
+            "list2":"Premium-level support, design features, and integrations"
+        },
+        {
+            "heading":"Premium",
+            "price":"49",
+            "price2":"41",
+            "views":"150,000",
+            "list1":"Unlimited number of popups, subscribers, and A/B tests",
+            "list2":"Premium-level support, design features, and integrations"
+        },
+        {
+            "heading":"Growth",
+            "price":"29",
+            "price2":"24",
+            "views":"50,000",
+            "list1":"Unlimited number of popups, subscribers, and A/B tests",
+            "list2":"Advanced-level support, design features, and integrations"
+        },
+        {
+            "heading":"Starter",
+            "price":"0",
+            "price2":"0",
+            "views":"5,000",
+            "list1":"Limit of 10 popups, 1 live test, and unlimited number of subscribers",
+            "list2":"Basic-level support, design features, and integrations"
+        }
+    ],
+    "slider":[
+        {
+            "text":"Hello Bar helps me create engaging popups at a lighting fast pace for many of my ventures with no coding skills required!",
+            "img":"../assets/images/Neil_Patel.png",
+            "name":"Neil Patel",
+            "alt":"Neil Patel",
+            "post":"Digital Marketing & SEO Expert  Neil Patel Digital"
+        },
+        {
+            "text":"So flexible and functional we've made Hello Bar the core of our email-acquisition strategy.",
+            "img":"../assets/images/Matt_Gross.png",
+            "name":"Matt Gross",
+            "alt":"Matt Gross",
+            "post":"Senior Director, Digital Initiatives  Archetype Media"
+        },
+        {
+            "text":"Hello Bar is the best WordPress plugin for getting Facebook likes, we know because we've tried them all. It was extremely easy to install and the customer service is amazing.",
+            "img":"../assets/images/Donovan_Martin.png",
+            "name":"Donovan Martin",
+            "alt":"Donovan Martin",
+            "post":"The Daily Scrum News   TDS News"
+        },
+        {
+            "text":"We used Hello Bar to advertise LeadQuizzes on our website and increased lead capture by over 50% and made an additional $52,223 dollars! ",
+            "img":"../assets/images/Jeremy_Ellens.png",
+            "name":"Jeremy Ellens",
+            "alt":"Jeremy Ellens",
+            "post":"Co-founder, Conversion Expert  LeadQuizzes"
+        }
+    ],
+    "images":[
+        {
+            "image":"../assets/images/Logo1-desk.png",
+            "alts":"Eventbride"
+        },
+        {
+            "image":"../assets/images/Logo2-desk.png",
+            "alts":"The Tim Ferriss Show"
+        }
+        ,
+        {
+            "image":"../assets/images/Logo3-desk.png",
+            "alts":"Salesforce"
+        }
+        ,
+        {
+            "image":"../assets/images/Logo4-desk.png",
+            "alts":"Fox"
+        }
+        ,
+        {
+            "image":"../assets/images/Logo5-desk.png",
+            "alts":"Men's Health"
+        }
+        ,
+        {
+            "image":"../assets/images/Logo6-desk.png",
+            "alts":"Seth Godin"
+        }
+        ,
+        {
+            "image":"../assets/images/Logo8-desk.png",
+            "alts":"Neil Patel"
+        }
+        ,
+        {
+            "image":"../assets/images/Logo9-desk.png",
+            "alts":"Lead Quizz"
+        }
+    ],
+   "popup": [
+        {
+            "popuimg":"../assets/images/Bars.jpg",
+            "alt":"Bar",
+            "title":"Bars",
+            "shortdesc":"Persistent header and footer bars that scroll with your visitors."
+        },
+        {
+            "popuimg":"../assets/images/Modals.jpg",
+            "alt":"Model",
+            "title":"Modals",
+            "shortdesc":"Popups that appear to capture visitor's attention at key moments."
+        },
+        {
+            "popuimg":"../assets/images/Alerts.jpg",
+            "alt":"Alert",
+            "title":"Alerts",
+            "shortdesc":"Small floating messages to provide user prompts and engagement."
+        },
+        {
+            "popuimg":"../assets/images/sliders.jpg",
+            "alt":"Slider",
+            "title":"Sliders",
+            "shortdesc":"Engaging sliders that rotate through relevant content."
+        },
+        {
+            "popuimg":"./assets/images/page-takeovers.jpg",
+            "alt":"Page-Tackover",
+            "title":"Page Takeovers",
+            "shortdesc":"Full screen takeovers for when you want to get your visitor's full attention."
+        }
+    ],
+    "customization":[
+        {
+            "image":"../assets/images/Themes.png",
+            "alt":"Themes",
+            "subhead":"Themes",
+            "text":"100s of pre-built themes. Find one that fits your brand style."
+        }
+        ,{
+            "image":"../assets/images/styling.png",
+            "alt":"Styling",
+            "subhead":"Styling",
+            "text":"Customize any element with the visual editor. Color, size, layout, and more."
+        }
+        ,{
+            "image":"../assets/images/design_assistant.png",
+            "alt":"Design-Assistant",
+            "subhead":"Design Assistant",
+            "text":"Automatically detects your site design and matches colors, fonts, and styling."
+        }
+    ],
+    "targetting":[
+        {
+            "image":"../assets/images/location.png",
+            "alt":"Location",
+            "subhead":"Location",
+            "text":"Target visitors by city, state, country, and more."
+        }
+        ,{
+            "image":"../assets/images/ad_Campaign.png",
+            "alt":"Ad, Campaign",
+            "subhead":"Ad, Campaign",
+            "text":"Target visitors by ad, campaign, source, medium, and more."
+        }
+        ,{
+            "image":"../assets/images/date_time.png",
+            "alt":"Date & Time",
+            "subhead":"Date & Time",
+            "text":"Schedule messaging and offers by time, date, returning visitors, and more."
+        }
+    ],
+    "tracking":[
+        {
+            "image":"../assets/images/analytics.png",
+            "alt":"Analytics",
+            "subhead":"Analytics",
+            "text":"Metrics let you track and analyze performance. See what's working and what you need to improve."
+        }
+        ,{
+            "image":"../assets/images/custom_reports.png",
+            "alt":"Custom Reports",
+            "subhead":"Custom Reports",
+            "text":"Create custom reports with the data most relevant to your business."
+        }
+        ,{
+            "image":"../assets/images/test_optimize.png",
+            "alt":"Test & Optimize",
+            "subhead":"Test & Optimize",
+            "text":"Run A/B tests to find new and better-performing campaigns."
+        }
+    ],
+    "tabcontent":[
+        {
+            "head":"Cart Abandonment",
+            "text":"Reduce cart abandonment by up to 63%.",
+            "image":"../assets/images/cart_abandonment.png",
+            "alt":"Cart Abandonment"
+        },
+        {
+            "head":"Email Lists",
+            "text":"Increase email Sign ups by up to 74%.",
+            "image":"../assets/images/email_lists.png",
+            "alt":"Email Lists"
+        },
+        {
+            "head":"Special Offers",
+            "text":"Targeted promotions can increase sales  up to 82%.",
+            "image":"../assets/images/special_offers.png",
+            "alt":"Special Offers"
+        }
+    ]
+
+}
+
